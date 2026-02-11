@@ -35,13 +35,10 @@ foreach(var t in toys)
 
 Console.WriteLine("\nJouets après décoration !");
 IToy t1Deco = new GiftWrapDecorator(toy1);
-IToy t2Deco = new GiftWrapDecorator(toy2);
+IToy t2Deco = new GiftWrapDecorator(new StickerDecorator(toy2));
 Console.WriteLine(t1Deco.Name);
 Console.WriteLine(t2Deco.Name);
 
-
-//var toy1Deco = new GiftWrapDecorator(toy1);
-//var toy2Deco = new GiftWrapDecorator(new StickerDecorator(toy2));
 
 
 
