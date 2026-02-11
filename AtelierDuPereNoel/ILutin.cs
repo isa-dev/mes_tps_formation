@@ -4,10 +4,8 @@ using System.Text;
 
 namespace AtelierDuPereNoel
 {
-    internal class Robot : IToy
+    internal interface ILutin
     {
-        public string Name => "IRobot";
-
-        
+        void RecevoirNotification(string message);
     }
 }

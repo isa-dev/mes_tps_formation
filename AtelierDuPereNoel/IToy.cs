@@ -7,7 +7,7 @@ namespace AtelierDuPereNoel
     internal interface IToy
     {
         string Name { get; }
-        string Description { get; }
-        decimal Price { get; }
+        
+       
     }
 }

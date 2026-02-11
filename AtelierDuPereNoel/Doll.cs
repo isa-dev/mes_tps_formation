@@ -8,8 +8,6 @@ namespace AtelierDuPereNoel
     {
         public string Name => "Poupée";
 
-        public string Description => "Poupée qui parle";
-
-        public decimal Price => 49m;
+        
     }
 }

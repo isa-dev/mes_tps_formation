@@ -4,10 +4,8 @@ using System.Text;
 
 namespace AtelierDuPereNoel
 {
-    internal class Robot : IToy
+    internal abstract class ToyFactory
     {
-        public string Name => "IRobot";
-
-        
+        public abstract IToy CreateToy();
     }
 }
