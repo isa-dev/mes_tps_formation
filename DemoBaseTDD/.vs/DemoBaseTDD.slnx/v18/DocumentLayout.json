@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{000DCBDC-63F0-4DE3-8CC6-132566A624DA}|Exercices.Test\\Exercices.Test.csproj|c:\\users\\administrateur\\desktop\\14 - tdd\\02-demos\\demobasetdd\\exercices.test\\exo3\\recherchevilletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{000DCBDC-63F0-4DE3-8CC6-132566A624DA}|Exercices.Test\\Exercices.Test.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\demobasetdd\\exercices.test\\exo3\\recherchevilletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000DCBDC-63F0-4DE3-8CC6-132566A624DA}|Exercices.Test\\Exercices.Test.csproj|solutionrelative:exercices.test\\exo3\\recherchevilletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECA13D74-25A6-47D2-BEC3-CE3BE3473613}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\desktop\\14 - tdd\\02-demos\\demobasetdd\\exercices\\rechercheville.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECA13D74-25A6-47D2-BEC3-CE3BE3473613}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\demobasetdd\\exercices\\rechercheville.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECA13D74-25A6-47D2-BEC3-CE3BE3473613}|Exercices\\Exercices.csproj|solutionrelative:exercices\\rechercheville.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{000DCBDC-63F0-4DE3-8CC6-132566A624DA}|Exercices.Test\\Exercices.Test.csproj|c:\\users\\administrateur\\desktop\\14 - tdd\\02-demos\\demobasetdd\\exercices.test\\exercices.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{000DCBDC-63F0-4DE3-8CC6-132566A624DA}|Exercices.Test\\Exercices.Test.csproj|solutionrelative:exercices.test\\exercices.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECA13D74-25A6-47D2-BEC3-CE3BE3473613}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\desktop\\14 - tdd\\02-demos\\demobasetdd\\exercices\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECA13D74-25A6-47D2-BEC3-CE3BE3473613}|Exercices\\Exercices.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\demobasetdd\\exercices\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECA13D74-25A6-47D2-BEC3-CE3BE3473613}|Exercices\\Exercices.csproj|solutionrelative:exercices\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3E71639-BA8A-4FEB-B0B7-5380AD73E8C0}|Demo02TDD.Core\\Demo02TDD.Core.csproj|c:\\users\\administrateur\\desktop\\14 - tdd\\02-demos\\demobasetdd\\demo02tdd.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{000DCBDC-63F0-4DE3-8CC6-132566A624DA}|Exercices.Test\\Exercices.Test.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\demobasetdd\\exercices.test\\exercices.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{000DCBDC-63F0-4DE3-8CC6-132566A624DA}|Exercices.Test\\Exercices.Test.csproj|solutionrelative:exercices.test\\exercices.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E71639-BA8A-4FEB-B0B7-5380AD73E8C0}|Demo02TDD.Core\\Demo02TDD.Core.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\demobasetdd\\demo02tdd.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3E71639-BA8A-4FEB-B0B7-5380AD73E8C0}|Demo02TDD.Core\\Demo02TDD.Core.csproj|solutionrelative:demo02tdd.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,50 +38,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Exercices.Test",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices.Test\\Exercices.Test.csproj",
+              "DocumentIndex": 3,
+              "Title": "Exercices.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices.Test\\Exercices.Test.csproj",
               "RelativeDocumentMoniker": "Exercices.Test\\Exercices.Test.csproj",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices.Test\\Exercices.Test.csproj",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices.Test\\Exercices.Test.csproj",
               "RelativeToolTip": "Exercices.Test\\Exercices.Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-26T11:25:01.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RechercheVilleTests.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices.Test\\Exo3\\RechercheVilleTests.cs",
-              "RelativeDocumentMoniker": "Exercices.Test\\Exo3\\RechercheVilleTests.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices.Test\\Exo3\\RechercheVilleTests.cs",
-              "RelativeToolTip": "Exercices.Test\\Exo3\\RechercheVilleTests.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwCYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T09:55:44.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T11:25:01.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RechercheVille.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices\\RechercheVille.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices\\RechercheVille.cs",
               "RelativeDocumentMoniker": "Exercices\\RechercheVille.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices\\RechercheVille.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices\\RechercheVille.cs",
               "RelativeToolTip": "Exercices\\RechercheVille.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T09:29:01.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "RechercheVilleTests.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices.Test\\Exo3\\RechercheVilleTests.cs",
+              "RelativeDocumentMoniker": "Exercices.Test\\Exo3\\RechercheVilleTests.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices.Test\\Exo3\\RechercheVilleTests.cs",
+              "RelativeToolTip": "Exercices.Test\\Exo3\\RechercheVilleTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:55:44.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices\\NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Exercices\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Exercices\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Exercices\\NotFoundException.cs",
               "RelativeToolTip": "Exercices\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,14 +91,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Demo02TDD.Core\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Demo02TDD.Core\\Program.cs",
               "RelativeDocumentMoniker": "Demo02TDD.Core\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\14 - TDD\\02-demos\\DemoBaseTDD\\Demo02TDD.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\DemoBaseTDD\\Demo02TDD.Core\\Program.cs",
               "RelativeToolTip": "Demo02TDD.Core\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:40:01.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T08:40:01.193Z"
             }
           ]
         }

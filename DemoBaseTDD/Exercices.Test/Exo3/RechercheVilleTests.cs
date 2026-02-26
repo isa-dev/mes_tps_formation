@@ -5,6 +5,8 @@ namespace Exercices.Test.Exo3;
 [TestClass]
 public class RechercheVilleTests
 {
+    private object rechercheVille;
+
     [TestMethod]
     public void Search_WordLessThan2Characters_LeveNotFoundException()
     {
