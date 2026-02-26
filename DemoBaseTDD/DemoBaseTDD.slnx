@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="AjoutDependance/AjoutDependance.csproj" />
+  <Project Path="Demo02TDD.Core/Demo02TDD.Core.csproj" Id="b3e71639-ba8a-4feb-b0b7-5380ad73e8c0" />
+  <Project Path="Demo02TDD.Tests/Demo02TDD.Tests.csproj" Id="da4b264f-e073-41f8-9c48-8ea8430b6f6f" />
   <Project Path="DemoBaseTDD.Tests/DemoBaseTDD.Tests.csproj" />
   <Project Path="DemoBaseTDD/DemoBaseTDD.csproj" />
   <Project Path="Exercices.Test/Exercices.Test.csproj" Id="000dcbdc-63f0-4de3-8cc6-132566a624da" />

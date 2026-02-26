@@ -63,7 +63,8 @@ public class CalculTest
 
         // Act et Assert
         // Assert.ThrowsExceptions<DivideByZeroException>(() => calcul.Division(1, 0));
-        Assert.Throws<DivideByZeroException>(() => calcul.Division(1, 0));
+        //Assert.Throws<DivideByZeroException>(() => calcul.Division(1, 0));
+        Assert.ThrowsExactly<DivideByZeroException>(() => calcul.Division(1, 0));
 
         //try
         //{
