@@ -28,7 +28,7 @@ namespace Panier.Tests;
     public void AddItem_NameIsWhitespace_ThrowsArgumentException()
     {
         ShoppingCart cart = new ShoppingCart();
-        Assert.ThrowsExactly<ArgumentException>(() => cart.AddItem("   ", 10m, 1)
+        Assert.ThrowsExactly<ArgumentException>(() => cart.AddItem("  ", 10m, 1)
         );
     }
 
