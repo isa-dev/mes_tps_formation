@@ -3,72 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\stickerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:stickerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\bigfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:bigfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\atelier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:atelier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\toyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:toyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\decorator\\stickerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:decorator\\stickerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\decorator\\plaintoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:decorator\\plaintoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\toydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:toydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:decorator\\giftwrapdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\observer\\lutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:observer\\lutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\doll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:doll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\observer\\ilutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:observer\\ilutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\itoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:itoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\atelierduperenoel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:atelierduperenoel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\lutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:lutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\decorator\\toydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:decorator\\toydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\ilutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:ilutin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\plaintoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:plaintoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\toyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\toyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\dollfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:dollfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\bigfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\bigfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\itoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\itoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\robotfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:robotfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\doll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\doll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\robotfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\robotfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\dollfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\dollfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|c:\\users\\administrateur\\desktop\\mes_tps_formation\\atelierduperenoel\\factory\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9CD055-952A-BB84-B347-E797A40E0CDE}|AtelierDuPereNoel.csproj|solutionrelative:factory\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,58 +90,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StickerDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\StickerDecorator.cs",
-              "RelativeDocumentMoniker": "StickerDecorator.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\StickerDecorator.cs",
-              "RelativeToolTip": "StickerDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Lutin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Observer\\Lutin.cs",
+              "RelativeDocumentMoniker": "Observer\\Lutin.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Observer\\Lutin.cs",
+              "RelativeToolTip": "Observer\\Lutin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:56:07.279Z",
+              "WhenOpened": "2026-02-11T13:05:40.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "ILutin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Observer\\ILutin.cs",
+              "RelativeDocumentMoniker": "Observer\\ILutin.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Observer\\ILutin.cs",
+              "RelativeToolTip": "Observer\\ILutin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:04:42.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GiftWrapDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\GiftWrapDecorator.cs",
-              "RelativeDocumentMoniker": "GiftWrapDecorator.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\GiftWrapDecorator.cs",
-              "RelativeToolTip": "GiftWrapDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\GiftWrapDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\GiftWrapDecorator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\GiftWrapDecorator.cs",
+              "RelativeToolTip": "Decorator\\GiftWrapDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T12:45:00.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "PlainToy.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\PlainToy.cs",
+              "RelativeDocumentMoniker": "Decorator\\PlainToy.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\PlainToy.cs",
+              "RelativeToolTip": "Decorator\\PlainToy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:42:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StickerDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\StickerDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\StickerDecorator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\StickerDecorator.cs",
+              "RelativeToolTip": "Decorator\\StickerDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:56:07.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T10:36:42.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BigFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\BigFactory.cs",
-              "RelativeDocumentMoniker": "BigFactory.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\BigFactory.cs",
-              "RelativeToolTip": "BigFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T11:25:53.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Atelier.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Atelier.cs",
               "RelativeDocumentMoniker": "Atelier.cs",
@@ -145,151 +176,143 @@
               "RelativeToolTip": "Atelier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T13:27:01.156Z"
+              "WhenOpened": "2026-02-11T13:27:01.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "AtelierDuPereNoel.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\AtelierDuPereNoel.csproj",
+              "RelativeDocumentMoniker": "AtelierDuPereNoel.csproj",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\AtelierDuPereNoel.csproj",
+              "RelativeToolTip": "AtelierDuPereNoel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T15:01:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToyDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\ToyDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\ToyDecorator.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Decorator\\ToyDecorator.cs",
+              "RelativeToolTip": "Decorator\\ToyDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:35:48.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IToy.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\IToy.cs",
+              "RelativeDocumentMoniker": "Factory\\IToy.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\IToy.cs",
+              "RelativeToolTip": "Factory\\IToy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:38:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ToyFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\ToyFactory.cs",
-              "RelativeDocumentMoniker": "ToyFactory.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\ToyFactory.cs",
-              "RelativeToolTip": "ToyFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\ToyFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\ToyFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\ToyFactory.cs",
+              "RelativeToolTip": "Factory\\ToyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T11:18:40.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Car.cs",
-              "RelativeDocumentMoniker": "Car.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Car.cs",
-              "RelativeToolTip": "Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "BigFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\BigFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\BigFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\BigFactory.cs",
+              "RelativeToolTip": "Factory\\BigFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T10:47:16.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ToyDecorator.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\ToyDecorator.cs",
-              "RelativeDocumentMoniker": "ToyDecorator.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\ToyDecorator.cs",
-              "RelativeToolTip": "ToyDecorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:35:48.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Robot.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Robot.cs",
-              "RelativeDocumentMoniker": "Robot.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Robot.cs",
-              "RelativeToolTip": "Robot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T10:48:31.785Z"
+              "WhenOpened": "2026-02-11T11:25:53.517Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\Car.cs",
+              "RelativeDocumentMoniker": "Factory\\Car.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\Car.cs",
+              "RelativeToolTip": "Factory\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:47:16.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Doll.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Doll.cs",
-              "RelativeDocumentMoniker": "Doll.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Doll.cs",
-              "RelativeToolTip": "Doll.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\Doll.cs",
+              "RelativeDocumentMoniker": "Factory\\Doll.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\Doll.cs",
+              "RelativeToolTip": "Factory\\Doll.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T10:44:47.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IToy.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\IToy.cs",
-              "RelativeDocumentMoniker": "IToy.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\IToy.cs",
-              "RelativeToolTip": "IToy.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T10:38:59.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Lutin.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Lutin.cs",
-              "RelativeDocumentMoniker": "Lutin.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Lutin.cs",
-              "RelativeToolTip": "Lutin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T13:05:40.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ILutin.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\ILutin.cs",
-              "RelativeDocumentMoniker": "ILutin.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\ILutin.cs",
-              "RelativeToolTip": "ILutin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T13:04:42.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PlainToy.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\PlainToy.cs",
-              "RelativeDocumentMoniker": "PlainToy.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\PlainToy.cs",
-              "RelativeToolTip": "PlainToy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T12:42:26.631Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "RobotFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\RobotFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\RobotFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\RobotFactory.cs",
+              "RelativeToolTip": "Factory\\RobotFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:25:09.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\Robot.cs",
+              "RelativeDocumentMoniker": "Factory\\Robot.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\Robot.cs",
+              "RelativeToolTip": "Factory\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T10:48:31.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "DollFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\DollFactory.cs",
-              "RelativeDocumentMoniker": "DollFactory.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\DollFactory.cs",
-              "RelativeToolTip": "DollFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\DollFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\DollFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\DollFactory.cs",
+              "RelativeToolTip": "Factory\\DollFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T11:23:11.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "CarFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\CarFactory.cs",
-              "RelativeDocumentMoniker": "CarFactory.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\CarFactory.cs",
-              "RelativeToolTip": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\CarFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\CarFactory.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\Factory\\CarFactory.cs",
+              "RelativeToolTip": "Factory\\CarFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T11:24:17.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RobotFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\RobotFactory.cs",
-              "RelativeDocumentMoniker": "RobotFactory.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\mes_tps_formation\\AtelierDuPereNoel\\RobotFactory.cs",
-              "RelativeToolTip": "RobotFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T11:25:09.354Z"
             }
           ]
         }
