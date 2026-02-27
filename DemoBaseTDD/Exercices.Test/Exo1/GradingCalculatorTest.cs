@@ -1,4 +1,6 @@
-namespace Exercices.Test.Exo1;
+using Exercices.Exo1;
+
+namespace Exercices.Test;
 
 [TestClass]
 public class GradingCalculatorTest

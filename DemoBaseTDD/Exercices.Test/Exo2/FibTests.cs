@@ -1,3 +1,4 @@
+using Exercices.Exo2;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Exercices.Test.Exo2;

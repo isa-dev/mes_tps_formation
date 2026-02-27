@@ -1,4 +1,6 @@
-namespace Exercices.Test.Exo2;
+using Exercices.Exo2;
+
+namespace Exercices.Test;
 
 [TestClass]
 public class FibTest
